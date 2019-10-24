@@ -1,4 +1,4 @@
-#PACMATH: a pac-man like educational game
+# PACMATH: a pac-man like educational game
 
 PACMATH is an educational game based on the classic arcade game Pacman. In this game, the user controls the Pacman and tries to eliminate all the ghosts. Each ghost has a number labeled on it. At the beginning of the game the Pacman needs to eat a fruit which contains a math question. The difficulty depends on the level of the game. The user needs to solve the question and eat the Ghost with the answer on it. The game proceeds to next level after all four ghosts are eliminated.
 
@@ -14,7 +14,7 @@ python pacmath.py
 
 # Demo
 
-![Demo](illu1)
+![Demo](https://github.com/js8544/PacMath/raw/master/illu1.png)
 
 
 
